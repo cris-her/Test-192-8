@@ -22,7 +22,7 @@
         <category android:name="android.intent.category.DEFAULT" />
         <category android:name="android.intent.category.BROWSABLE" />
         <data android:host="cris-her.github.io" />
-        <data android:pathPrefix="/test-192-8/" />
+        <data android:pathPrefix="/recipe/" />
         <data android:scheme="https" />
       </intent-filter>
     </activity>

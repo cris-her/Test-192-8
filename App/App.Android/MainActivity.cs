@@ -21,7 +21,7 @@ namespace App.Droid
         },
         DataScheme = "https",
         DataHost = "cris-her.github.io",
-        DataPathPrefix = "/test-192-8/",
+        DataPathPrefix = "/recipe/",
         AutoVerify = true)
     ]
 
