@@ -9,8 +9,21 @@
 <body>
     <p>Test-192-8</p>
     <script>
-        setTimeout(function () { window.location = "https://itunes.apple.com/appdir"; }, 25);
-        window.location = "appname://";
+        /*
+        (function() {
+          var app = {
+            launchApp: function() {
+              window.location.replace("Twitter://");
+              this.timer = setTimeout(this.openWebApp, 1000);
+            },
+
+            openWebApp: function() {
+              window.location.replace("https://es.wikipedia.org/wiki/Animalia/");
+            }
+          };
+
+          app.launchApp();
+        })();*/
     </script>
 </body>
 </html>
