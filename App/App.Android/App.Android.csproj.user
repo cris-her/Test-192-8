@@ -4,5 +4,6 @@
     <SelectedDevice>Sony G3423</SelectedDevice>
     <ActiveDebugProfile>Sony G3423</ActiveDebugProfile>
     <DefaultDevice>Android_Accelerated_x86_Oreo</DefaultDevice>
+    <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>
