@@ -1,7 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.crisher.Test",
-    "sha256_cert_fingerprints": ["19:18:A5:95:B0:F9:32:25:7C:5A:8F:9F:34:F8:E2:44:99:28:E6:B0:74:42:BD:C2:27:36:3F:69:5C:CA:78:5E"]
+  "target" : { "namespace": "android_app", "package_name": "com.cris-her.Test",
+               "sha256_cert_fingerprints": ["19:18:A5:95:B0:F9:32:25:7C:5A:8F:9F:34:F8:E2:44:99:28:E6:B0:74:42:BD:C2:27:36:3F:69:5C:CA:78:5E"] }
 }]
