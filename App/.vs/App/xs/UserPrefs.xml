@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C2264713-0931-4BF7-A77C-E62E431B4404}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.iOS/Info.plist">
+    <Files>
+      <File FileName="App.iOS/Info.plist" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="App" expanded="True">
+            <Node name="App.iOS" expanded="True">
+              <Node name="Info.plist" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.App.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.c8feeb1f8b27150f9434676bedc56bb0ffffc4c3" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>App.Android/App.Android.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

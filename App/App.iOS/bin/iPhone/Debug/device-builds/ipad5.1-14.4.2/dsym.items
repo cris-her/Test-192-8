@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="App.iOS.app">
+      <NativeExecutable>App.iOS</NativeExecutable>
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NoDSymUtil>false</NoDSymUtil>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <SymbolsList>\Users\bigsur\Library\Caches\Xamarin\mtbs\builds\App.iOS\f2fdb047d4424448bc9edc7dda2f8d6d4fab58db0b37db94a4ec5f3c2ca2da75\obj\iPhone\Debug\device-builds\ipad5.1-14.4.2\mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>
