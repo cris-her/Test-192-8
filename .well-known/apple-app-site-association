@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "5T8754AL7Q.com.crisher.Test",
+                "paths": [ "/recipe/*"]
+            }
+        ]
+    }
+}
